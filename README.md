@@ -123,4 +123,3 @@ annotate_sequence-v2.0 was successfully run.
     A file called 11_64323183_poly.vcf was created.
 ```
 
-Matt doesn't know shit
